@@ -2,13 +2,13 @@
 
 Hello everyone,
 
-We are excited to announce that **Venom** is now officially part of the new communication ecosystem: **ERA CONNECT™**, powered and maintained by **VYNECT™**.
+We are excited to announce that **DanteheistMd** is now officially part of the new communication ecosystem: **ERA CONNECT™**, powered and maintained by **VYNECT™**.
 
 ---
 
 ## ❗ Important Information
 
-As of this announcement, **Venom will no longer continue as an open-source project**.
+As of this announcement, **Na will no longer continue as an open-source project**.
 
 Instead, Venom will move to a **freemium** model:
 - ✅ The **free version** will still be available with usage limits.
